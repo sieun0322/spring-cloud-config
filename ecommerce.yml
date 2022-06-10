@@ -1,3 +1,4 @@
 token:
   expiration_time: 86400000
-  secret: user_tokens
+  secret: my_token_default
+  
